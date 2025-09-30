@@ -31,3 +31,8 @@ Product Level: Detailed sales for 15+ sub-categories (e.g., Phones, Chairs, Stor
 * **Technology** typically contributes the highest profit per year.
 * Sales are generally highest in the later months of the year (**Q4**), as shown in the **Sales by Month** chart.
 * **Tamara Chand** is the highest-profit customer.
+ 
+ ## Tech Stack
+Data Analysis → Excel
+
+Visualization → Excel Dashboard
